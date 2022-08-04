@@ -1,0 +1,8 @@
+.alerts{
+    width: 20px;
+}
+.scroll_height{
+    height: 10vw;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
